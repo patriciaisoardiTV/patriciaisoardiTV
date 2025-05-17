@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patriciaisoardiTV
 - 👀 I’m interested in reading, gardening, cooking, my cats & Taylor Swift
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning about a11y
 - 📫 How to reach me patri.pd.isoardi@gmail.com
 - 😄 Pronouns: she/her/hers
 
